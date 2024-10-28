@@ -1,0 +1,41 @@
+
+<students>
+
+      <student siNO = "23 ">
+  
+	
+			 <name>John Carter</name>
+			 
+			 <admissionTest>
+				<date>25</date>
+				<month>12</month>
+				<year>2015</year>
+			 </admissionTest>
+			 
+				   
+		   </student>
+   
+       <student siNO = "29">
+  
+			 <name>Bob Marshel</name>
+		 <admissionTest>
+				<date>13</date>
+				<month>01</month>
+				<year>1999</year>
+			 </admissionTest>
+		   
+		   </student>
+			   
+	   <student siNO = "35 ">
+	  
+		 
+		 <name>clark kent</name>
+		 <admissionTest>
+			<date>17</date>
+			<month>06</month>
+			<year>2005</year>
+		 </admissionTest>
+	   
+	   </student>
+   
+</students>
