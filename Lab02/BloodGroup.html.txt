@@ -1,0 +1,23 @@
+<html>
+	<head>
+	<title></title>
+	</head>
+<body>
+
+	BG: <select name = " "
+		    <option value = "bg">A+</option>
+		    <option value = "bg">A-</option>
+		    <option value = "bg">B+</option>
+			<option value = "bg">B-</option>
+			<option value = "bg">AB+</option>
+			<option value = "bg">AB-</option>
+
+
+
+		 
+     
+     <p><input type="submit" value="submit"></p>
+ 
+	
+</body>
+</html>

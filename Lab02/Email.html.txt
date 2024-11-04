@@ -1,0 +1,13 @@
+<html>
+	<head>
+	<title></title>
+	</head>
+<body>
+
+	Email:
+     <p><input type="email" value=""></p>
+     <p><input type="submit" value="submit"></p>
+ 
+	
+</body>
+</html>
