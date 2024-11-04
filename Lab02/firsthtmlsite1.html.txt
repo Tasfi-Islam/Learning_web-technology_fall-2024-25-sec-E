@@ -1,0 +1,45 @@
+<html>
+
+		<head>
+		<title> Assessment Task </title>
+
+		</head>
+		<body>
+		
+		<table border = "1" >
+				 <tr>
+					  <th colspan="3">First HTML Site</th>
+					
+				  </tr>
+				
+				 <tr>
+					<td>Links   
+					     <a href="">page-1</a>
+		                 <a href="">page-2</a>
+	            	</td>
+					
+		 
+					  <td>
+						  <h2>Page-1</h2>
+						  <h6>I am at page-1</h6>
+					  </td>
+					  
+					 <td>Externel links
+					 
+                         <a href="">page-1</a>
+                         <a href="">page-2</a>
+                     </td> 
+					  
+				  </tr>   
+					
+				
+				 <tr>
+					<td colspan="3" align="center">copyright</td>
+			     </tr> 
+									  
+				  
+				
+		   
+        </table>
+		</body>
+</html>
