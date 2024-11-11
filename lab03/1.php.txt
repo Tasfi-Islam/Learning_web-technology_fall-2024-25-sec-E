@@ -1,0 +1,13 @@
+
+<?php
+$a = 3;
+$b = 2;
+$area = $a * $b;
+$perimeter = 2 * ($a+$b);
+
+echo "Area of the rectangle :  $area <br>";
+echo "Perimeter of the rectangle : $perimeter<br>";
+
+?> 
+
+

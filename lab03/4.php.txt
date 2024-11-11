@@ -1,0 +1,24 @@
+
+
+<?php
+$a = 10;
+$b = 20;
+$c = 30;
+
+if($a>= $b && $a >= $c)
+{
+echo " $a This is the largest number. <br>";
+}
+
+  else if($b >= $a && $b>= $c)
+  {
+     echo " $b This is the largest number. <br>";
+  }
+  else
+  {
+     echo " $c This is the largest number. <br>";
+  }
+
+?> 
+
+

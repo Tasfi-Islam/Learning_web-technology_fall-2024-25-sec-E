@@ -1,0 +1,13 @@
+<?php
+$a = 10;
+if($a % 2==0)
+{
+echo " $a This is even. <br>";
+}
+else
+  {
+  echo " $a This is odd. <br>";
+  }
+
+
+?> 

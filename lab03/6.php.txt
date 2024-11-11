@@ -1,0 +1,20 @@
+<?php
+  
+  $arr = array ('Tasfi', 21-45504-3,'iiislamtasfi@gmail.com');
+   $a = Tasfi;
+   
+   if ($arr = $a)
+   {
+     echo "Found";
+   }
+   
+   else
+   {
+      echo "Not found";
+      }
+  
+ 
+
+?> 
+
+
